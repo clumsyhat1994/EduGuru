@@ -1,0 +1,21 @@
+# DS_Store
+.DS_Store
+
+# classpath
+.classpath
+
+# build folder
+build/*
+
+target/*
+
+.idea/*
+
+bin/*
+
+classes/*
+
+src/main/java/eduguru/dal/ConnectionManager.java
+
+
+
